@@ -1,0 +1,25 @@
+.upload-image-container {
+  background-color: #f0f0f0;
+  padding: 5rem;
+}
+
+.custom-file-upload {
+  display: block;
+  text-align: center;
+}
+
+.upload-image-container {
+  margin-bottom: 20px;
+}
+
+.imagedisplaycls {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.preview-image {
+  width: 347px;
+  height: 300px;
+  object-fit: cover;
+ 
+}

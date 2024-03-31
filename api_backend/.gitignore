@@ -1,0 +1,6 @@
+/api_backend/node_modules
+/client_frontend/node_modules
+/api_backend/.env
+/client_frontend/.env
+.env
+/node_modules
